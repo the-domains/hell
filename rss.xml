@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hell]]></title>
         <description><![CDATA[Hell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 19:53:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 19:53:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
+            <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
+            <link>http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/</link>
+            <guid isPermaLink="false">80e7c4b6-e4d4-4f3b-ab47-a1777722d5c8</guid>
+            <pubDate>Sun, 22 May 2016 19:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Space odyssey: photographer Thomas Ruff heads to the moon with new work.]]></title>
             <description><![CDATA[<article><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg"></article>]]></description>
