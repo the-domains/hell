@@ -1,0 +1,14 @@
+layout_spectrum: 0.9311552299186587
+typography_spectrum: 0.8702821270562708
+color:
+  brandStrength: 0.22022593626752496
+  lightness: 0.713064763462171
+  saturation: 0.5048239608295262
+  rhythmicContrast: 0.1328183407895267
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Hell
